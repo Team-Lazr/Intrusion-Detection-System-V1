@@ -14,3 +14,4 @@ pip3 install adafruit-charlcd || "Error Installing adafruit-charlcd"
 pip3 install adafruit-circuitpython-fingerprint || "Error Installing adafruit-circuitpython-fingerprint"
 #	Keypad
 pip3 install adafruit-circuitpython-matrixkeypad || "Error Installing adafruit-circuitpython-matrixkeypad"
+echo "Installion Complete"

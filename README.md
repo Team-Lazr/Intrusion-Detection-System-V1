@@ -1,1 +1,3 @@
 # Intrusion Detection System V1
+
+Intrusion Detection System V1 (IDS1) is a Raspberry Pi-based security solution. It utilizes accurate Limit switches to detect door status and a 16x2 LCD for real-time updates. With a Keypad for pin-based authorization, IDS1 ensures enhanced security against unauthorized access. Protect your premises with IDS1, a reliable system combining door monitoring, informative LCD display, and secure pin-based authentication.
